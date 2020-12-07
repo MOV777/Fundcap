@@ -470,6 +470,7 @@ main {
 .features {
   z-index: 100;
   margin-top: -100px;
+  color: #372e4f;
 }
 
 .features__content {
@@ -566,6 +567,7 @@ main {
   padding-top: 365px;
   background-color: #f3f1f1;
   padding-bottom: 15px;
+  color: #372e4f;
 }
 
 .build .build__content {

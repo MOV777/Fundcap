@@ -340,6 +340,7 @@ main {
 .features {
     z-index: 100;
     margin-top: -100px;
+    color: #372e4f;
     &__content {
         padding-left: 77px;
         background-color: #fff;
@@ -425,7 +426,7 @@ main {
     padding-top: 365px;
     background-color: rgb(243, 241, 241);
     padding-bottom: 15px;
-
+    color: #372e4f;
     .build__content {
         display: flex;
         flex-direction: column;
